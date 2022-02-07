@@ -11,8 +11,7 @@
                 "city": "Gwenborough",
                 "zipcode": "92998-3874"
             },
-            "phone": "1-770-736-8031 x56442",
-            "website": "hildegard.org"
+            "phone": "1-770-736-8031"
         },
         {
             "id": 2,
@@ -25,8 +24,7 @@
                 "city": "Wisokyburgh",
                 "zipcode": "90566-7771"
             },
-            "phone": "010-692-6593 x09125",
-            "website": "anastasia.net"
+            "phone": "010-692-6593"
         },
         {
             "id": 3,
@@ -39,8 +37,7 @@
                 "city": "McKenziehaven",
                 "zipcode": "59590-4157"
             },
-            "phone": "1-463-123-4447",
-            "website": "ramiro.info"
+            "phone": "1-463-123-4447"
         },
         {
             "id": 4,
@@ -53,8 +50,7 @@
                 "city": "South Elvis",
                 "zipcode": "53919-4257"
             },
-            "phone": "493-170-9623 x156",
-            "website": "kale.biz"
+            "phone": "493-170-9623"
         },
         {
             "id": 5,
@@ -67,8 +63,7 @@
                 "city": "Roscoeview",
                 "zipcode": "33263"
             },
-            "phone": "(254)954-1289",
-            "website": "demarco.info"
+            "phone": "(254)954-1289"
         },
         {
             "id": 6,
@@ -81,8 +76,7 @@
                 "city": "South Christy",
                 "zipcode": "23505-1337"
             },
-            "phone": "1-477-935-8478 x6430",
-            "website": "ola.org"
+            "phone": "1-477-935-8478"
         },
         {
             "id": 7,
@@ -95,8 +89,7 @@
                 "city": "Howemouth",
                 "zipcode": "58804-1099"
             },
-            "phone": "210.067.6132",
-            "website": "elvis.io"
+            "phone": "210-067-6132"
         },
         {
             "id": 8,
@@ -109,8 +102,7 @@
                 "city": "Aliyaview",
                 "zipcode": "45169"
             },
-            "phone": "586.493.6943 x140",
-            "website": "jacynthe.com"
+            "phone": "586-493-6943"
         },
         {
             "id": 9,
@@ -123,8 +115,7 @@
                 "city": "Bartholomebury",
                 "zipcode": "76495-3109"
             },
-            "phone": "(775)976-6794 x41206",
-            "website": "conrad.com"
+            "phone": "(775)976-6794"
         },
         {
             "id": 10,
@@ -137,8 +128,7 @@
                 "city": "Lebsackbury",
                 "zipcode": "31428-2261"
             },
-            "phone": "024-648-3804",
-            "website": "ambrose.net"
+            "phone": "024-648-3804"
         }
     ]
 }
